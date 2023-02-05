@@ -23,7 +23,6 @@ public class exercicio8 {
         else {
             imposto = (salario - 4500.0) * 0.28 + 1500.0 * 0.18 + 1000.0 * 0.08;
         }
-
         if (imposto == 0.0) {
             System.out.println("Isento");
         }
